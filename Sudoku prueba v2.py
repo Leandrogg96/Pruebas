@@ -127,6 +127,7 @@ def resolver(M):
                                 print("\nLos posibles números son:", resultado)
                                 print(arr_fila)
                                 print(arr_columna)
+                                print("-----------------------------------------------------")
                                 print(arr_aux)
                                 
                                 print("VALOR DE I Y J", i ,j)
